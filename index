@@ -1,7 +1,11 @@
 <html>
 <head>
+
 </head>
 <body>
+Text goes here
+<p><b>Bold text<b></p>
 <h1>Heading 1</h1>
+Everything that comes after
 </body>
 </html>
